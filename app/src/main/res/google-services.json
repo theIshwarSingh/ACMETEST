@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "356116602625",
+    "firebase_url": "https://acme-survey.firebaseio.com",
+    "project_id": "acme-survey",
+    "storage_bucket": "acme-survey.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356116602625:android:e3bb4165c5378d67",
+        "android_client_info": {
+          "package_name": "com.theguide.guidesoft.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356116602625-6b6jjbohjrqiadgsjk9tjne3ok740u1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb9Ly-ja5mldjP-gL-eivwGiYg8zpdzwk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
